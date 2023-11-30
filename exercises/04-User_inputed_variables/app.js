@@ -1,3 +1,4 @@
 let age = prompt('What is your age?');
 
-// Your code below:
+suma (age + "10 años");
+console.log (suma)
