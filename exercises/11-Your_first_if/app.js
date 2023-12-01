@@ -5,7 +5,7 @@ let total = prompt('How many km are left to go?');
     else if (total > 50){
         console.log("We'll be there in 5 minutes")
     }
-    else (total >=50){
+    else {
         console.log ("I'm parking. I'll see you right now")
     }
     
